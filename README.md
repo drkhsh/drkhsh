@@ -10,6 +10,7 @@
      ███▄██▀ ███ ███ ███ ███ ███ ███ ▀█████▀ ███ ███
 ```
 
-![Cyberpunk](cyberpunk.gif)
+➡️ Go to [git.drkhsh.at](https://git.drkhsh.at) for **all** of my git repositories.
+Most important & recent ones are mirrored on [Codeberg](https://codeberg.org/drkhsh) as well.
 
-➡️ Go to [git.drkhsh.at](https://git.drkhsh.at) for **most of my git repositories**. Github serves only as a mirror for *some stuff*.
+Github serves only as a mirror for *some* legacy stuff.
